@@ -1,4 +1,4 @@
-package candidatura;
+package contador;
 
 import java.util.Scanner;
 
