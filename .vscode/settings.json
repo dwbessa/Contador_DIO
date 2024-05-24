@@ -1,0 +1,12 @@
+{
+    "java.project.sourcePaths": ["src"],
+    "java.project.outputPath": "bin",
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar"
+    ],
+    "github.copilot.editor.enableAutoCompletions": false,
+    "java.help.firstView": "none",
+    "java.help.showReleaseNotes": false,
+    "editor.parameterHints.cycle": false,
+    "editor.parameterHints.enabled": false
+}
